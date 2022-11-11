@@ -18,3 +18,8 @@ h1 {
 
     height: 200px;
 }
+
+.conteudo > .esquerda > img {
+    width: 70px;
+    height: 70px;
+}
