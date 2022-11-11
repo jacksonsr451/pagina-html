@@ -17,3 +17,8 @@ h1 {
     display: flex;
     height: 200px;
 }
+
+.conteudo > .esquerda > img {
+    width: 70px;
+    height: 70px;
+}
