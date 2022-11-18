@@ -1,11 +1,21 @@
+:root {
+    --primeira-cor: "#50514F";
+    --segunda-cor: "#cbd4c2";
+
+    --borda:"#FFFCFF";
+
+    --fundo: "#247BA0";
+    --text: "#C3B299";
+}
+
 * {
     margin: 0;
     padding: 0;
 }
 
 body {
-    background-color: rgb(62, 64, 66);
-    color: rgb(251, 251, 250);
+    background-color: var(--fundo);
+    color: var(--text);
     font-size: 30px;
 }
 
